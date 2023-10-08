@@ -1,0 +1,16 @@
+C:\Users\01370776\Downloads\NGMTEM001\startingFile Workshop8\startingFile Workshop8\GoodFoodSystem\GoodFoodSystem\obj\Release\GoodFoodSystem.csproj.AssemblyReference.cache
+C:\Users\01370776\Downloads\NGMTEM001\startingFile Workshop8\startingFile Workshop8\GoodFoodSystem\GoodFoodSystem\obj\Release\GoodFoodSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\01370776\Downloads\NGMTEM001\startingFile Workshop8\startingFile Workshop8\GoodFoodSystem\GoodFoodSystem\obj\Release\GoodFoodSystem.PresentationLayer.CreateNewCustomer.resources
+C:\Users\01370776\Downloads\NGMTEM001\startingFile Workshop8\startingFile Workshop8\GoodFoodSystem\GoodFoodSystem\obj\Release\GoodFoodSystem.PresentationLayer.CreateOrder.resources
+C:\Users\01370776\Downloads\NGMTEM001\startingFile Workshop8\startingFile Workshop8\GoodFoodSystem\GoodFoodSystem\obj\Release\GoodFoodSystem.PresentationLayer.CustomerListingForm.resources
+C:\Users\01370776\Downloads\NGMTEM001\startingFile Workshop8\startingFile Workshop8\GoodFoodSystem\GoodFoodSystem\obj\Release\GoodFoodSystem.PresentationLayer.EmployeeForm.resources
+C:\Users\01370776\Downloads\NGMTEM001\startingFile Workshop8\startingFile Workshop8\GoodFoodSystem\GoodFoodSystem\obj\Release\GoodFoodSystem.PresentationLayer.EmployeeListingForm.resources
+C:\Users\01370776\Downloads\NGMTEM001\startingFile Workshop8\startingFile Workshop8\GoodFoodSystem\GoodFoodSystem\obj\Release\GoodFoodSystem.PresentationLayer.EmployeeMDIParent1.resources
+C:\Users\01370776\Downloads\NGMTEM001\startingFile Workshop8\startingFile Workshop8\GoodFoodSystem\GoodFoodSystem\obj\Release\GoodFoodSystem.PresentationLayer.ExpiredProducts.resources
+C:\Users\01370776\Downloads\NGMTEM001\startingFile Workshop8\startingFile Workshop8\GoodFoodSystem\GoodFoodSystem\obj\Release\GoodFoodSystem.PresentationLayer.Login.resources
+C:\Users\01370776\Downloads\NGMTEM001\startingFile Workshop8\startingFile Workshop8\GoodFoodSystem\GoodFoodSystem\obj\Release\GoodFoodSystem.PresentationLayer.MDIParent1.resources
+C:\Users\01370776\Downloads\NGMTEM001\startingFile Workshop8\startingFile Workshop8\GoodFoodSystem\GoodFoodSystem\obj\Release\GoodFoodSystem.PresentationLayer.PickingList.resources
+C:\Users\01370776\Downloads\NGMTEM001\startingFile Workshop8\startingFile Workshop8\GoodFoodSystem\GoodFoodSystem\obj\Release\GoodFoodSystem.PresentationLayer.ProductListingForm.resources
+C:\Users\01370776\Downloads\NGMTEM001\startingFile Workshop8\startingFile Workshop8\GoodFoodSystem\GoodFoodSystem\obj\Release\GoodFoodSystem.Properties.Resources.resources
+C:\Users\01370776\Downloads\NGMTEM001\startingFile Workshop8\startingFile Workshop8\GoodFoodSystem\GoodFoodSystem\obj\Release\GoodFoodSystem.csproj.GenerateResource.cache
+C:\Users\01370776\Downloads\NGMTEM001\startingFile Workshop8\startingFile Workshop8\GoodFoodSystem\GoodFoodSystem\obj\Release\GoodFoodSystem.csproj.CoreCompileInputs.cache
